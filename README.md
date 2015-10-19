@@ -2,6 +2,7 @@
 python codes for the homework
 
 Homework 1:
+
 1. Perceptron learning
 (a) Create 9-dimensional input vectors in two classes by drawing two cluster centers from a
 spherical Gaussian distribution, then scaling down the width of that Gaussian by a factor of
@@ -22,6 +23,7 @@ real-valued noise in a controlled way as in 1a, independently for each pixel.
 (c) as in 1c.
 
 Homework 2:
+
 1. Implement and test a feed-forward artificial neural network (ANN or MLP = multilayer
 perceptron) with two layers of weights (i.e one layer of hidden units) and logistic transfer
 functions, using back-propagation of error (online or batch) as the learning algorithm.
